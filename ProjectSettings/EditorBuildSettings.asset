@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ProtoJeudi.unity
+    guid: 856fb35405e08ac4bb3211526b38e448
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: da6f2fc67d7073e4e923f9466e1d70af
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: e8871df683fc5ff4086807c6bdf39a7d
+  m_configObjects: {}
